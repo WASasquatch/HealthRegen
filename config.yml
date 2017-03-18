@@ -1,0 +1,5 @@
+# Regen Interaval [Default: 80 (4 seconds)]
+regen-interval: 80
+
+# Regen Health Amount [Default: 1]
+regen-amount: 1

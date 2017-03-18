@@ -1,0 +1,7 @@
+name: HealthRegen
+main: wa.was.healthregen.HealthRegen
+version: 0.1
+permissions:
+    healthregen.allow:
+        description: Allows player to regenerate health
+        default: true
